@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<path1>
+<color>#FF0000</color>
+<filename>hat_closed2.wav</filename>
+<starttime>10</starttime>
+<starttime>20</starttime>
+</path1>
+
+<path2>
+<color>#00FF00</color>
+<filename>Kick4.wav</filename>
+<starttime>30</starttime>
+<starttime>40</starttime>
+</path2>
+
+<path3>
+<color>#0000FF</color>
+<filename>Snare2.wav</filename>
+<starttime>50</starttime>
+<starttime>60</starttime>
+</path3>
